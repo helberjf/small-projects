@@ -112,8 +112,6 @@ cd small-projects
 ```
 
 ## 📂 Estrutura da Pasta Atualizada
-
-```
 small-projects/
 ├── README.md
 ├── calculator/
@@ -132,4 +130,3 @@ small-projects/
     ├── index.html
     ├── style.css
     └── script.js
-'''
