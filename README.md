@@ -132,4 +132,4 @@ small-projects/
     ├── index.html
     ├── style.css
     └── script.js
-```
+'''
