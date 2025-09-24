@@ -4,8 +4,6 @@
 ```markdown
 # 🚀 Small Projects | Pequenos Projetos
 
-<div align="center">
-
 🇺🇸 **Collection of small JavaScript projects for learning and practice**  
 🇧🇷 **Coleção de pequenos projetos em JavaScript para aprendizado e prática**
 
@@ -14,7 +12,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-</div>
 
 ## 📋 Table of Contents | Índice
 - [About | Sobre](#-about--sobre)
