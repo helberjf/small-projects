@@ -1,6 +1,3 @@
-🇺🇸 Collection of small projects in JavaScript: calculator, Amount Spent on Fuel, etc.
-🇧🇷 Coleção de pequenos projetos: calculadora,valor gasto em combustível, etc.
-
 ```markdown
 # 🚀 Small Projects | Pequenos Projetos
 
