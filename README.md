@@ -104,12 +104,11 @@ cd small-projects
 
 ---
 
-<div align="center">
 
 **⭐ Feel free to star this repository if you find it useful!**  
 **⭐ Sinta-se à vontade para dar uma estrela se achou útil!**
 
-</div>
+
 ```
 
 ## 📂 Estrutura da Pasta Atualizada
@@ -133,5 +132,4 @@ small-projects/
     ├── index.html
     ├── style.css
     └── script.js
-```
 ```
